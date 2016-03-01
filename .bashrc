@@ -206,7 +206,6 @@ fi
 
 chcp.com 65001 > /dev/null 2>&1
 #export LANG=zh_CN.utf8@cjknarrow
-export WORK_SPACE=/cygdrive/e/cxywork/jiaoda2/trunk/jiaoda2/src/
 export SVN_EDITOR=vim
 
 M2_HOME=/usr/local/apache-maven-3.3.9
